@@ -1,7 +1,4 @@
 # ML-algorithms
-Certainly! Here's an expanded table that includes additional machine learning algorithms:
-
-Certainly! I've added two additional columns, "Algorithm Description" and "Links/Resources," where you can paste the algorithm description and provide links to relevant resources. Here's the updated table:
 
 | Algorithm Type                  | Use Cases                                                | Algorithm Description                                                                                                                                                                                                                                                                  | Links/Resources                                            |
 |---------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
